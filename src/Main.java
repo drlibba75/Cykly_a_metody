@@ -5,19 +5,6 @@ public class Main {
 
 
 
-        //region Demo
-        /**
-         * Ukázka použítí metody {@link Support#safeReadInt()}
-         *
-         * Tato metoda použije metodu {@link Support#safeReadInt() k načtení
-         * jednoho čísla od uživatele a vypsání tohoto čísla na výstup.
-
-         * Podobně můžeš používat metodu {@link Support#safeReadInt()}
-         * i v dalších metodách.
-         */
-
-
-
   //METODA 1
 
         public static void readIntsFromInputAndPrintItUntilNegative() {
